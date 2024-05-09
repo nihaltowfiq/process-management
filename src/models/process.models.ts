@@ -15,4 +15,3 @@ const ProcessSchema: Schema = new Schema({
 const ProcessModel = mongoose.model<IProcess>('process', ProcessSchema);
 
 export default ProcessModel;
-

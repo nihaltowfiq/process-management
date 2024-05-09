@@ -5,4 +5,3 @@ export function generateUniqueId() {
 }
 
 console.log('result', generateUniqueId());
-

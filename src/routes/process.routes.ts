@@ -17,4 +17,3 @@ processRoute.get('/get-single/:pid', getSingleProcess);
 processRoute.delete('/delete-process/:pid', deleteSingleProcess);
 
 export default processRoute;
-
